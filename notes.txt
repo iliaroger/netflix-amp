@@ -1,0 +1,9 @@
+- Next.js 
+- Styled components
+- Apollo / Graphql 
+- Gcg
+- Formik
+- Framer
+- Redux
+- Firebase 
+- React testing library 
